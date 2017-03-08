@@ -1,11 +1,16 @@
 # PLGenerator
-	 PLGenerator.jar - (Plan Library Generator) is a mechanism to automatically generate arbitrarily
-	 complex plan libraries. 
 
-## SYNOPSIS
-	 java -jar PLGenerator.jar [OPTION]... 
+PLGenerator.jar - (Plan Library Generator) is program to automatically generate arbitrarily complex plan libraries. 
 
-## DESCRIPTION
+## Running PLGenerator
+
+```bash
+java -jar PLGenerator.jar [OPTION]... 
+```
+
+## Parameters
+
+
 	 -h 	 display this help and exit 
 
 	 -g 	 number of top plans (goals), (default: 3) 
